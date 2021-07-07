@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = p.penhard@gmail.com
+	name = Pierre Penhard
